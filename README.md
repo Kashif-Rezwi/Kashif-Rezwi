@@ -18,4 +18,4 @@
 
 ## 🛰 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-rezwi-149372216/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([kashifrezwi850@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBkhbTFxQKqVVgRRCkWmTLPClMzQjPLCgZphcPkzXTPBfHGgNSWhVhZLSpkbKqVSGwHSB))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KashifRezwi)
