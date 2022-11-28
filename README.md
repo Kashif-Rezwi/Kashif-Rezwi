@@ -2,3 +2,8 @@
 
 My name is Kashif Rezwi
 I'm a Full Stack Web Developer 👨‍💻
+
+<h1 align="center">My name is Kashif Rezwi</h1>
+<div align="center">
+ <img src="/gif1.avif" />
+</div>
