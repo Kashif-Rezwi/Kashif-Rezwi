@@ -3,5 +3,5 @@
  
 <h3>My name is Kashif Rezwi and I'm a Full Stack Web Developer 👨‍💻</h3>
 <div align="center" style={{width="600px"}}>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrRTkd9V-hW55vBUrQbtpGFZpX3ks9nsy_gA&usqp=CAU" alt="gif" />
+ <img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="gif" />
 </div>
