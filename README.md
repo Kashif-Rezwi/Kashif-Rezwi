@@ -20,10 +20,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-rezwi-149372216/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KashifRezwi)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashif-Rezwi&show_icons=true&locale=en&layout=compact" alt="Kashif-Rezwi" /></p>
-
-<div><img src="https://github-readme-stats.vercel.app/api?username=kashif-rezwi" alt="github stats"/></div>
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=kashif-rezwi" alt="github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashif-Rezwi&show_icons=true&locale=en&layout=compact" alt="Kashif-Rezwi" />
+</div>
 
 <dic> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashif-rezwi" alt="github stats"/></dic>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&locale=en" alt="Kashif-Rezwi" /></p>
