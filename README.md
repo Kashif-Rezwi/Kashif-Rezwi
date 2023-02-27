@@ -25,5 +25,5 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashif-Rezwi&show_icons=true&locale=en&layout=compact" alt="Kashif-Rezwi" />
 </div>
 
-<dic> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashif-rezwi" alt="github stats"/></dic>
+<dic> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashif-Rezwi" alt="github stats"/></dic>
 
