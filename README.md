@@ -21,6 +21,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KashifRezwi)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashif-Rezwi&show_icons=true&locale=en&layout=compact" alt="Kashif-Rezwi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&locale=en" alt="Kashif-Rezwi" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashif-Rezwi&show_icons=true&locale=en&layout=compact" alt="Kashif-Rezwi" /></p>
