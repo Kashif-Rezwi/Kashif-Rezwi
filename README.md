@@ -4,7 +4,7 @@
 # My name is Kashif Rezwi and I'm a Full Stack Web Developer 👨‍💻
 
 ## 🤵 Professional Summary :
-<h3>A dedicated full-stack web developer with strong in design and integration with intuitive problem-solving skills. Proficient in JavaScript, React, NextJS, Express, Node, and MongoDB. Passionate about implementing and launching new projects. Looking to start my career as an entry-level full-stack web developer with a reputed firm driven by technology.</h3>
+<h3>A Full Stack Developer with 2+ years of experience delivering production-grade web applications and complex business logic. Proven track record with CRM platforms, workflow automation, and scalable architectures. Expert in MERN stack, with a strong understanding of software design patterns, clean code principles, and production deployment. Experienced in collaborating with cross-functional teams to deliver mission-critical features on schedule.</h3>
 
 <hr/>
 <div align="center">
