@@ -4,7 +4,7 @@
 # My name is Kashif Rezwi and I'm a Full Stack Web Developer 👨‍💻
 
 ## 🧠 Professional Summary  
-A Full Stack Developer with 2+ years of experience delivering production-grade web applications and complex business logic. Proven track record with CRM platforms, workflow automation, and scalable architectures. Expert in the **MERN stack**, with a strong grasp of **software design patterns**, **clean code principles**, and **production deployment**. Experienced in collaborating with cross-functional teams to deliver mission-critical features on schedule.
+A Full Stack Web Developer with 2+ years of experience delivering production-grade web applications and complex business logic. Proven track record with CRM platforms, workflow automation, and scalable architectures. Expert in the **MERN stack**, with a strong grasp of **software design patterns**, **clean code principles**, and **production deployment**. Experienced in collaborating with cross-functional teams to deliver mission-critical features on schedule.
 
 ---
 
