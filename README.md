@@ -3,8 +3,8 @@
  
 # My name is Kashif Rezwi and I'm a Software Developer 👨‍💻
 
-## 🧠 Professional Summary  
-A Software Developer with 2+ years of experience delivering production-grade web applications and complex business logic. Proven track record with CRM platforms, workflow automation, and scalable architectures. Expert in the **MERN stack**, with a strong grasp of **software design patterns**, **clean code principles**, and **production deployment**. Experienced in collaborating with cross-functional teams to deliver mission-critical features on schedule.
+## 🧠 Professional Summary
+A Software Developer with 2+ years of experience in a fast-paced startup environment, delivering production-grade web applications and AI-powered solutions. Proven track record with CRM platforms, workflow automation, and scalable architectures. Expert in the **MERN stack**, with a strong understanding of software design patterns, clean code principles, and production deployment.
 
 ---
 
