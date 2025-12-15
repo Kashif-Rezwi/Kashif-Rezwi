@@ -1,11 +1,11 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;Wellcome+to+my+Github+profile+🙏)](https://git.io/typing-svg)
  
-# My name is Kashif Rezwi and I'm a Software Developer 👨‍💻
+# My name is Kashif Rezwi and I'm a Software Engineer 👨‍💻
 
 ## 🧠 Professional Summary
 <p align="justify">
- A Software Developer with 2+ years of experience in a fast-paced startup environment, delivering production-grade web applications and AI-powered solutions. Proven track record with CRM platforms, workflow automation, and scalable architectures. Proficient in MERN stack, with a strong understanding of software design patterns, clean code principles, and production deployment. Experienced in collaborating with cross-functional teams to deliver key product features within project timelines.
+ A Software Engineer with 2+ years of experience in a fast-paced startup environment, delivering production-grade web applications and AI-powered solutions. Proven track record with CRM platforms, workflow automation, and scalable architectures. Proficient in MERN stack, with a strong understanding of software design patterns, clean code principles, and production deployment. Experienced in collaborating with cross-functional teams to deliver key product features within project timelines.
 </p>
 
 ---
