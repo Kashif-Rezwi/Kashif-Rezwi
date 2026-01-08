@@ -5,7 +5,7 @@
 
 ## 🧠 Professional Summary
 <p align="justify">
- A Software Engineer with 2+ years of experience in a fast-paced startup environment, delivering production-grade web applications and AI-powered solutions. Proven track record with CRM platforms, workflow automation, and scalable architectures. Proficient in MERN stack, with a strong understanding of software design patterns, clean code principles, and production deployment. Experienced in collaborating with cross-functional teams to deliver key product features within project timelines.
+A Software Engineer with 2+ years of experience in fast-paced startup environments, delivering production-grade full-stack web apps and AI-powered solutions. Proven track record in building CRM platforms, workflow automation systems, and scalable architectures. Proficient in the MERN stack, with a strong understanding of software design patterns, clean code principles, and production deployments. Experienced in collaborating with cross-functional teams to deliver high-impact product features.
 </p>
 
 ---
