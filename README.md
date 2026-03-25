@@ -1,76 +1,39 @@
-
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;Wellcome+to+my+Github+profile+🙏)](https://git.io/typing-svg)
- 
-# My name is Kashif Rezwi and I'm a Software Engineer 👨‍💻
-
-## 🧠 Professional Summary
-<p align="justify">
-A Software Engineer with 2+ years of experience in fast-paced startup environments, delivering production-grade full-stack web apps and AI-powered solutions. Proven track record in building CRM platforms, workflow automation systems, and scalable architectures. Proficient in the MERN and PERN stack, with a strong understanding of software design patterns, clean code principles, and production deployments. Experienced in collaborating with cross-functional teams to deliver high-impact product features.
-
-Currently focused on building AI-powered applications using multi-agent architectures, real-time streaming (SSE), and LLM integrations. Working with NestJS, Next.js, PostgreSQL, and Vercel AI SDK, while actively exploring AI agent orchestration and tool-calling workflows.
+<p align="center">
+ <img width="162" height="26" alt="image" src="https://github.com/user-attachments/assets/9ee2175d-091c-4b88-96c9-751cf2f33f0e" />
 </p>
 
----
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;AI+Agents+%26+LLM+Integration;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
-<div align="center">
- <img src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="gif" />
-</div>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kashif-rezwi/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/kashifrezwi"><img width="32px" alt="Twitter" title="Twitter" src="/assets/x.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/kashifrezwi"><img width="32px" alt="Dev.to" title="kashifrezwi Dev.to" src="/assets/devto.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://kashif-rezwi.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"/></a>
+</p>
 
----
+<!-- Github stats -->
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/Kashif-Rezwi/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Kashif-Rezwi&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/Kashif-Rezwi/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/Kashif-Rezwi/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Rezwi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br><br><br>
 
-## 🚀 Tech Stack:
-
-### 🧩 Frontend  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-%23000000.svg?style=for-the-badge)
-![Radix UI](https://img.shields.io/badge/Radix_UI-%23000000.svg?style=for-the-badge)
-
----
-
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![WebSocket](https://img.shields.io/badge/Native-WebSocket-brightgreen?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-
----
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00.svg?style=for-the-badge&logo=clickhouse&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-### ☁️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC.svg?style=for-the-badge)
-![Render](https://img.shields.io/badge/Render-%23430098.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-
----
-
-<div>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashif-Rezwi&show_icons=true&locale=en&layout=compact" alt="Kashif-Rezwi" />
- 
- <img src="https://github-readme-stats.vercel.app/api?username=kashif-rezwi" alt="github stats"/>
-</div>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif-Rezwi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
