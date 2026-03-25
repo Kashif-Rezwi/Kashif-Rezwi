@@ -5,7 +5,9 @@
 
 ## 🧠 Professional Summary
 <p align="justify">
-A Software Engineer with 2+ years of experience in fast-paced startup environments, delivering production-grade full-stack web apps and AI-powered solutions. Proven track record in building CRM platforms, workflow automation systems, and scalable architectures. Proficient in the MERN stack, with a strong understanding of software design patterns, clean code principles, and production deployments. Experienced in collaborating with cross-functional teams to deliver high-impact product features.
+A Software Engineer with 2+ years of experience in fast-paced startup environments, delivering production-grade full-stack web apps and AI-powered solutions. Proven track record in building CRM platforms, workflow automation systems, and scalable architectures. Proficient in the MERN and PERN stack, with a strong understanding of software design patterns, clean code principles, and production deployments. Experienced in collaborating with cross-functional teams to deliver high-impact product features.
+
+Currently focused on building AI-powered applications using multi-agent architectures, real-time streaming (SSE), and LLM integrations. Working with NestJS, Next.js, PostgreSQL, and Vercel AI SDK, while actively exploring AI agent orchestration and tool-calling workflows.
 </p>
 
 ---
@@ -65,11 +67,6 @@ A Software Engineer with 2+ years of experience in fast-paced startup environmen
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 ---
-
-## 🛰 Connect with me :
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-rezwi-149372216/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://kashif-rezwi.github.io)
 
 <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kashif-Rezwi&show_icons=true&locale=en&layout=compact" alt="Kashif-Rezwi" />
