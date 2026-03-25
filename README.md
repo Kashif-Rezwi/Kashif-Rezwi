@@ -8,13 +8,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kashif-rezwi/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/kashif-rezwi/"><img width="48px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/kashifrezwi"><img width="32px" alt="Twitter" title="Twitter" src="/assets/x.png"/></a>
+  <a href="https://x.com/kashifrezwi"><img width="48px" alt="Twitter" title="Twitter" src="/assets/x.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/kashifrezwi"><img width="32px" alt="Dev.to" title="kashifrezwi Dev.to" src="/assets/devto.png"></a>
+  <a href="https://dev.to/kashifrezwi"><img width="48px" alt="Dev.to" title="kashifrezwi Dev.to" src="/assets/devto.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://kashif-rezwi.github.io/"><img width="32px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"/></a>
+  <a href="https://kashif-rezwi.github.io/"><img width="48px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"/></a>
 </p>
 
 <!-- Github stats -->
