@@ -8,30 +8,24 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kashif-rezwi/"><img width="48px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/kashif-rezwi/" target="_blank"><img width="48px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/kashifrezwi"><img width="48px" alt="Twitter" title="Twitter" src="/assets/x.png"/></a>
+  <a href="https://x.com/kashifrezwi" target="_blank"><img width="48px" alt="Twitter" title="Twitter" src="/assets/x.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/kashifrezwi"><img width="48px" alt="Dev.to" title="kashifrezwi Dev.to" src="/assets/devto.png"></a>
+  <a href="https://dev.to/kashifrezwi" target="_blank"><img width="48px" alt="Dev.to" title="kashifrezwi Dev.to" src="/assets/devto.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://kashif-rezwi.github.io/"><img width="48px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"/></a>
+  <a href="https://kashif-rezwi.github.io/" target="_blank"><img width="48px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"/></a>
 </p>
 
 <!-- Github stats -->
 <p align=center>
   <div align=center>
-    <a href="https://github.com/Kashif-Rezwi/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Kashif-Rezwi&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/Kashif-Rezwi/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Kashif-Rezwi&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/Kashif-Rezwi/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Rezwi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Rezwi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </div>
   <br><br><br>
 
