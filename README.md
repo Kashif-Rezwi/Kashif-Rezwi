@@ -118,7 +118,7 @@
 </tr>
 <tr>
 <td width="100px" height="100px" align="center"><img src="/assets/nodejs.png" width="40"/><br/>Node.js</td>
-<td width="100px" height="100px" align="center"><img src="/assets/expressjs.png" width="40"/><br/>Express</td>
+<td width="100px" height="100px" align="center"><img src="/assets/expressjs.png" width="40"/><br/>Express.js</td>
 <td width="100px" height="100px" align="center"><img src="/assets/nestjs.png" width="40"/><br/>NestJS</td>
 <td width="100px" height="100px" align="center"><img src="/assets/websocket.png" width="40"/><br/>WebSocket</td>
 </tr>
