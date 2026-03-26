@@ -80,7 +80,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br>
+</br></br></br></br></br>
 
 <table width="100%" align="right">
 <tr>
@@ -95,7 +95,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br>
+</br></br></br></br></br>
 
 <table width="100%" align="left">
 <tr>
@@ -109,7 +109,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br>
+</br></br></br></br></br>
 
 <table width="100%" align="right">
 <tr>
@@ -123,7 +123,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br>
+</br></br></br></br></br>
 
 <table width="100%" align="left">
 <tr>
@@ -135,7 +135,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br>
+</br></br></br></br></br>
 
 <table width="100%" align="right">
 <tr>
