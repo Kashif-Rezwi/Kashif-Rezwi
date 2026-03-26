@@ -29,11 +29,9 @@
 
 <br/>
 
-```
 Building scalable AI-powered systems and automation platforms.<br/>
 Full-stack engineer with production experience in workflow systems, CRM platforms, and real-time architectures.<br/>
 Currently focused on AI agents, LLM integrations, and event-driven system design.
-```
 
 </br>
 
@@ -43,7 +41,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
   <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
 
-</br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
 
 <!-- Tech stack -->
 <table width="100%" align="left">
@@ -69,7 +67,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br></br>
+</br></br></br></br>
 
 <table width="100%" align="right">
 <tr>
@@ -84,7 +82,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br></br>
+</br></br></br></br>
 
 <table width="100%" align="left">
 <tr>
@@ -98,7 +96,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br></br>
+</br></br></br></br>
 
 <table width="100%" align="right">
 <tr>
@@ -112,7 +110,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br></br>
+</br></br></br></br>
 
 <table width="100%" align="left">
 <tr>
@@ -124,7 +122,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br></br>
+</br></br></br></br>
 
 <table width="100%" align="right">
 <tr>
@@ -154,7 +152,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
 
 <!-- Github stats -->
 <p align=center>
