@@ -33,7 +33,7 @@
 <tr>
 <td height=130>
 <p>Full Stack Engineer with a focus on AI agent systems and real-time architectures.</p>
-<p>I've 2 years of experience at a product startup contributing end-to-end on production environments - CRM systems, workflow automation engines, workflow AI agents and AI-powered landing-page generation. Shipped SaaS products from scratch at a startup, launched on AppSumo.</p>
+<p>I have 2+ years of experience at a product startup, contributing end-to-end to production systems, including CRM platforms, workflow automation engines, AI workflow agents, and AI-powered landing page generation. I have built and shipped SaaS products from scratch in a startup environment, including successful launches on AppSumo.</p>
 </td>
 </tr>
 </table>
@@ -41,7 +41,7 @@
 <table>
 <tr>
 <td height=160>
-<p>These days I'm focused on building agent systems that are actually reliable, agentic orchestration, multi-agent architectures, SSE streaming, and whatever comes after LLM tool-calling.</p>
+<p>These days I’m more focused on building reliable and production-ready agent systems, working on agent orchestration, multi-agent architectures, real-time streaming (SSE), and exploring the evolving landscape of LLM tool-calling and beyond.</p>
 <p>Now building → code-review-agent (multi-agent · NextJS · NestJS · SSE · Vercel AI SDK)</p>
 <p>Learning out loud → ai-playground (LLM primitives → RAG → multi-agent systems)</p>
 </td>
