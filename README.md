@@ -37,8 +37,21 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 
 <!-- Github stats -->
 <div align=center>
-  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Kashif-Rezwi&theme=react&border=61dafb&hide_border=true" alt="Kashif-Rezwi" />
+<table align="left">
+<tr>
+<td width="400px" height="180px" align="center">
+<img  width=380 src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</td>
+</tr>
+</table>
+
+<table align="right">
+<tr>
+<td width="400px" height="180px" align="center">
+<img width=380 src="https://streak-stats.demolab.com/?user=Kashif-Rezwi&theme=react&border=61dafb&hide_border=true" alt="Kashif-Rezwi" />
+</td>
+</tr>
+</table>
 </div>
 
 </br></br></br></br></br></br></br></br>
