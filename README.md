@@ -29,6 +29,19 @@
 
 <br/>
 
+<h3 style="display: flex; align-items: center; gap: 8px;">
+  <img width="20px" src="/assets/code.png" alt="code" /> 
+  &#8287;About
+</h3>
+
+```
+ Building scalable AI-powered systems and automation platforms.<br/>
+ Full-stack engineer with production experience in workflow systems, CRM platforms, and real-time architectures.<br/>
+ Currently focused on AI agents, LLM integrations, and event-driven system design.
+```
+
+<hr>
+
 <!-- Github stats -->
 <p align=center>
   <div align=center>
