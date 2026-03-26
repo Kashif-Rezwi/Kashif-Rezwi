@@ -37,8 +37,8 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 
 <!-- Github stats -->
 <div align=center>
-  <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Kashif-Rezwi&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Kashif-Rezwi&theme=react&border=61dafb&hide_border=true" alt="Kashif-Rezwi" />
 </div>
 
 </br></br></br></br></br></br></br></br>
@@ -152,7 +152,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </tr>
 </table>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br>
 
 <!-- Github stats -->
 <p align=center>
