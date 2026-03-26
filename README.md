@@ -54,7 +54,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 </table>
 </div>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br>
 
 <!-- Tech stack -->
 <table width="100%" align="left">
