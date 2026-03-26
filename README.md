@@ -128,18 +128,7 @@ Currently focused on AI agents, LLM integrations, and event-driven system design
 
 <table width="100%" align="right">
 <tr>
-<p align="right">Messaging & Systems</p>
-</tr>
-<tr>
-<td width="100px" height="100px" align="center"><img src="/assets/rabbitmq.png" width="40"/><br/>RabbitMQ</td>
-</tr>
-</table>
-
-</br></br></br></br></br>
-
-<table width="100%" align="left">
-<tr>
-<p align="left">AI Workflows</p>
+<p align="right">AI Workflows</p>
 </tr>
 <tr>
 <td align="center" width="100px" height="100px">
