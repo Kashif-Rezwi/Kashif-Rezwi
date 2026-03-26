@@ -41,7 +41,7 @@
 <table>
 <tr>
 <td height=160>
-<p>These days I’m more focused on building reliable and production-ready agent systems, working on agent orchestration, multi-agent architectures, real-time streaming (SSE), and exploring the evolving landscape of LLM tool-calling and beyond.</p>
+<p>These days I’m more focused on leveling up by building reliable and production-ready agent systems, working on agent orchestration, multi-agent architectures, real-time streaming (SSE), and exploring the evolving landscape of LLM primitives, tool-calling and beyond — while continuously refining system design, scalability, and observability for real-world reliability.</p>
 <p>Now building → code-review-agent (multi-agent · NextJS · NestJS · SSE · Vercel AI SDK)</p>
 <p>Learning out loud → ai-playground (LLM primitives → RAG → multi-agent systems)</p>
 </td>
