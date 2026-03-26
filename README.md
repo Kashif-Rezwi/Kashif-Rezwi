@@ -29,9 +29,24 @@
 
 <br/>
 
-Building scalable AI-powered systems and automation platforms.<br/>
-Full-stack engineer with production experience in workflow systems, CRM platforms, and real-time architectures.<br/>
-Currently focused on AI agents, LLM integrations, and event-driven system design.
+<table>
+<tr>
+<td height=130>
+<p>Full Stack Engineer with a focus on AI agent systems and real-time architectures.</p>
+<p>I've 2 years of experience at a product startup contributing end-to-end on production environments - CRM systems, workflow automation engines, workflow AI agents and AI-powered landing-page generation. Shipped SaaS products from scratch at a startup, launched on AppSumo.</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td height=160>
+<p>These days I'm focused on building agent systems that are actually reliable, agentic orchestration, multi-agent architectures, SSE streaming, and whatever comes after LLM tool-calling.</p>
+<p>Now building → code-review-agent (multi-agent · NextJS · NestJS · SSE · Vercel AI SDK)</p>
+<p>Learning out loud → ai-playground (LLM primitives → RAG → multi-agent systems)</p>
+</td>
+</tr>
+</table>
 
 </br>
 
