@@ -31,7 +31,7 @@
 
 <table>
 <tr>
-<td height=130>
+<td height=140>
 <p>Full Stack Engineer with a focus on AI agent systems and real-time architectures.</p>
 <p>I have 2+ years of experience at a product startup, contributing end-to-end to production systems, including CRM platforms, workflow automation engines, AI workflow agents, and AI-powered landing page generation. I have built and shipped SaaS products from scratch in a startup environment, including successful launches on AppSumo.</p>
 </td>
@@ -40,7 +40,7 @@
 
 <table>
 <tr>
-<td height=160>
+<td height=180>
 <p>These days I’m more focused on leveling up by building reliable and production-ready agent systems, working on agent orchestration, multi-agent architectures, real-time streaming (SSE), and exploring the evolving landscape of LLM primitives, tool-calling and beyond — while continuously refining system design, scalability, and observability.</p>
 <p>Now building → code-review-agent (multi-agent · NextJS · NestJS · SSE · Vercel AI SDK)</p>
 <p>Learning out loud → ai-playground (LLM primitives → RAG → multi-agent systems)</p>
@@ -55,7 +55,7 @@
 <table align="left">
 <tr>
 <td width="400px" height="180px" align="center">
-<img  width=380 src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+ <img  width=380 src="https://github-readme-stats-fast.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true" />
 </td>
 </tr>
 </table>
@@ -63,7 +63,7 @@
 <table align="right">
 <tr>
 <td width="400px" height="180px" align="center">
-<img width=380 src="https://streak-stats.demolab.com/?user=Kashif-Rezwi&theme=react&border=61dafb&hide_border=true" alt="Kashif-Rezwi" />
+<img width=380 src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kashif-Rezwi&theme=github_dark&border=61dafb&hide_border=true" alt="Kashif-Rezwi" />
 </td>
 </tr>
 </table>
