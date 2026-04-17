@@ -9,7 +9,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kashif-rezwi/" target="_blank"><img width="48px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <!-- <a href="https://x.com/kashifrezwi" target="_blank"><img width="48px" alt="Twitter" title="Twitter" src="/assets/x.png"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/kashifrezwi" target="_blank"><img width="48px" alt="Dev.to" title="kashifrezwi Dev.to" src="/assets/devto.png"></a>
