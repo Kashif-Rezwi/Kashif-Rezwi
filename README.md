@@ -20,9 +20,9 @@
 <!-- Social badges section -->
 <p align="center">
   <a href="https://github.com/Kashif-Rezwi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kashif-Rezwi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kashif-Rezwi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&cacheSeconds=3600"/></a>
   <a href="https://github.com/Kashif-Rezwi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kashif-Rezwi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kashif-Rezwi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=3600"/></a>
   <!-- <a href="https://github.com/Kashif-Rezwi/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src=""/></a> -->
 </p>
