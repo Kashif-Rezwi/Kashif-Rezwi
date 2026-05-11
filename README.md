@@ -149,36 +149,6 @@
 </tr>
 </table>
 
-</br></br></br></br></br>
-
-<table width="100%" align="right">
-<tr>
-<p align="right">AI Workflows</p>
-</tr>
-<tr>
-<td align="center" width="100px" height="100px">
-<img src="/assets/claudeai.png" width="48" height="48" alt="Claude" />
-<br>Claude
-</td>
-<td align="center" width="100px" height="100px">
-<img src="/assets/cursorai.png" width="48" height="48" alt="Cursor" />
-<br>Cursor
-</td>
-<td align="center" width="100px" height="100px">
-<img src="/assets/antigravity.png" width="48" height="48" alt="Antigravity" />
-<br>Antigravity
-</td>
-<td align="center" width="100px" height="100px">
-<img src="/assets/chatgpt.png" width="48" height="48" alt="ChatGPT" />
-<br>ChatGPT
-</td>
-<td align="center" width="100px" height="100px">
-<img src="/assets/geminiai.png" width="48" height="48" alt="Gemini" />
-<br>Gemini
-</td>
-</tr>
-</table>
-
 </br></br></br></br></br></br></br>
 
 <!-- Github stats -->
