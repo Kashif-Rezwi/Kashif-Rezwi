@@ -18,13 +18,24 @@
 </p>
 
 <!-- Social badges section -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Kashif-Rezwi?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kashif-Rezwi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&cacheSeconds=3600"/></a>
   <a href="https://github.com/Kashif-Rezwi?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kashif-Rezwi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=3600"/></a>
-  <!-- <a href="https://github.com/Kashif-Rezwi/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src=""/></a> -->
+  <a href="https://github.com/Kashif-Rezwi/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src=""/></a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/Kashif-Rezwi?tab=repositories&sort=stargazers">
+   <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Kashif-Rezwi?style=for-the-badge&logo=apachespark&logoColor=white&label=STARS&labelColor=488207&color=55960c&cacheSeconds=3600" /></a>
+
+  <a href="https://github.com/Kashif-Rezwi?tab=followers">
+  <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kashif-Rezwi?style=for-the-badge&logo=ghostfolio&logoColor=white&label=FOLLOW&labelColor=1155ba&color=236ad3&cacheSeconds=3600" /></a>
+
+  <a href="https://github.com/Kashif-Rezwi">
+  <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kashif-Rezwi&style=for-the-badge&label=PROFILE%20VIEWS&color=d97706" /></a>
 </p>
 
 <br/>
