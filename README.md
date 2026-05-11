@@ -76,21 +76,21 @@
 <p align="left">Languages</p>
 </tr>
 <tr>
-<td width="100px" height="100px" align="center">
+<td width="120px" height="100px" align="center">
 <img src="/assets/javascript.png" width="40"/><br/>JavaScript
 </td>
-<td width="100px" height="100px" align="center">
+<td width="120px" height="100px" align="center">
 <img src="/assets/typescript.png" width="40"/><br/>TypeScript
 </td>
-<td width="100px" height="100px" align="center">
+<td width="120px" height="100px" align="center">
 <img src="/assets/python.png" width="40"/><br/>Python
 </td>
-<td width="100px" height="100px" align="center">
+<!-- <td width="120px" height="100px" align="center">
 <img src="/assets/html.png" width="40"/><br/>HTML
 </td>
-<td width="100px" height="100px" align="center">
+<td width="120px" height="100px" align="center">
 <img src="/assets/css.png" width="40"/><br/>CSS
-</td>
+</td> -->
 </tr>
 </table>
 
@@ -101,11 +101,11 @@
 <p align="right">Frontend</p>
 </tr>
 <tr>
-<td width="100px" height="100px" align="center"><img src="/assets/react.png" width="40"/><br/>React</td>
-<td width="100px" height="100px" align="center"><img src="/assets/nextjs.png" width="40"/><br/>Next.js</td>
-<td width="100px" height="100px" align="center"><img src="/assets/tailwindcss.png" width="40"/><br/>Tailwind</td>
-<td width="100px" height="100px" align="center"><img src="/assets/redux.png" width="40"/><br/>Redux</td>
-<td width="100px" height="100px" align="center"><img src="/assets/tanstackquery.png" width="40"/><br/>TanStack</td>
+<td width="120px" height="100px" align="center"><img src="/assets/react.png" width="40"/><br/>React</td>
+<td width="120px" height="100px" align="center"><img src="/assets/nextjs.png" width="40"/><br/>Next.js</td>
+<td width="120px" height="100px" align="center"><img src="/assets/tailwindcss.png" width="40"/><br/>Tailwind</td>
+<td width="120px" height="100px" align="center"><img src="/assets/redux.png" width="40"/><br/>Redux</td>
+<td width="120px" height="100px" align="center"><img src="/assets/tanstackquery.png" width="40"/><br/>TanStack</td>
 </tr>
 </table>
 
@@ -116,10 +116,10 @@
 <p align="left">Backend</p>
 </tr>
 <tr>
-<td width="100px" height="100px" align="center"><img src="/assets/nodejs.png" width="40"/><br/>Node.js</td>
-<td width="100px" height="100px" align="center"><img src="/assets/expressjs.png" width="40"/><br/>Express.js</td>
-<td width="100px" height="100px" align="center"><img src="/assets/nestjs.png" width="40"/><br/>NestJS</td>
-<td width="100px" height="100px" align="center"><img src="/assets/websocket.png" width="40"/><br/>WebSocket</td>
+<td width="120px" height="100px" align="center"><img src="/assets/nodejs.png" width="40"/><br/>Node.js</td>
+<td width="120px" height="100px" align="center"><img src="/assets/expressjs.png" width="40"/><br/>Express.js</td>
+<td width="120px" height="100px" align="center"><img src="/assets/nestjs.png" width="40"/><br/>NestJS</td>
+<td width="120px" height="100px" align="center"><img src="/assets/websocket.png" width="40"/><br/>WebSocket</td>
 </tr>
 </table>
 
@@ -127,13 +127,13 @@
 
 <table width="100%" align="right">
 <tr>
-<p align="right">Databases & Storage</p>
+<p align="right">Databases & Caching</p>
 </tr>
 <tr>
-<td width="100px" height="100px" align="center"><img src="/assets/mongodb.png" width="40"/><br/>MongoDB</td>
-<td width="100px" height="100px" align="center"><img src="/assets/postgresql.png" width="40"/><br/>PostgreSQL</td>
-<td width="100px" height="100px" align="center"><img src="/assets/clickhouse.png" width="40"/><br/>ClickHouse</td>
-<td width="100px" height="100px" align="center"><img src="/assets/redis.png" width="40"/><br/>Redis</td>
+<td width="120px" height="100px" align="center"><img src="/assets/mongodb.png" width="40"/><br/>MongoDB</td>
+<td width="120px" height="100px" align="center"><img src="/assets/postgresql.png" width="40"/><br/>PostgreSQL</td>
+<td width="120px" height="100px" align="center"><img src="/assets/clickhouse.png" width="40"/><br/>ClickHouse</td>
+<td width="120px" height="100px" align="center"><img src="/assets/redis.png" width="40"/><br/>Redis</td>
 </tr>
 </table>
 
@@ -141,15 +141,16 @@
 
 <table width="100%" align="left">
 <tr>
-<p align="left">DevOps & Infrastructure</p>
+<p align="left">DevOps & Tools</p>
 </tr>
 <tr>
-<td width="100px" height="100px" align="center"><img src="/assets/git.png" width="40"/><br/>Git</td>
-<td width="100px" height="100px" align="center"><img src="/assets/docker.png" width="40"/><br/>Docker</td>
+<td width="120px" height="100px" align="center"><img src="/assets/git.png" width="40"/><br/>Git</td>
+<td width="120px" height="100px" align="center"><img src="/assets/docker.png" width="40"/><br/>Docker</td>
+<td width="140px" height="100px" align="center"><img src="/assets/githubactions.png" width="40"/><br/>Github Actions</td>
 </tr>
 </table>
 
-</br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
 
 <!-- Github stats -->
 <p align=center>
