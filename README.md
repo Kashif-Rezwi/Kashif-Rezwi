@@ -35,7 +35,7 @@
   <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kashif-Rezwi?style=for-the-badge&logo=ghostfolio&logoColor=white&label=FOLLOW&labelColor=1155ba&color=236ad3&cacheSeconds=3600" /></a>
 
   <a href="https://github.com/Kashif-Rezwi">
-  <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kashif-Rezwi&style=for-the-badge&label=PROFILE%20VIEWS&color=d97706" /></a>
+  <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kashif-Rezwi&style=for-the-badge&label=◉%20PROFILE%20VIEWS%20&color=d97706" /></a>
 </p>
 
 <br/>
