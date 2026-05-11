@@ -31,19 +31,18 @@
 
 <table>
 <tr>
-<td height=140>
-<p>Full Stack Engineer with a focus on AI agent systems and real-time architectures.</p>
-<p>I have 2+ years of experience at a product startup, contributing end-to-end to production systems, including CRM platforms, workflow automation engines, AI workflow agents, and AI-powered landing page generation. I have built and shipped SaaS products from scratch in a startup environment, including successful launches on AppSumo.</p>
+<td height=120>
+<p>Full Stack Engineer (Frontend Focus) with ~2 years of experience building production SaaS products in startup environments. I’ve worked on landing page builders, CRM modules, workflow automation, and AI-assisted product experiences across React, Next.js, TypeScript, Node.js, and NestJS. Currently building Code Review Agent, an AI-powered PR review platform, while continuing to strengthen product engineering, UI architecture, and backend systems.</p>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td height=180>
-<p>These days I’m more focused on leveling up by building reliable and production-ready agent systems, working on agent orchestration, multi-agent architectures, real-time streaming (SSE), and exploring the evolving landscape of LLM primitives, tool-calling and beyond — while continuously refining system design, scalability, and observability.</p>
-<p>Now building → code-review-agent (multi-agent · NextJS · NestJS · SSE · Vercel AI SDK)</p>
-<p>Learning out loud → ai-playground (LLM primitives → RAG → multi-agent systems)</p>
+<td height=156>
+<p>These days I’m focused on leveling up as an engineer by building production-ready SaaS and AI-assisted systems, exploring real-time experiences (SSE/WebSockets), workflow automation, and scalable product architectures.</p>
+<p>Now building → code-review-agent (Next.js · NestJS · SSE · OpenAI · Vercel AI SDK)</p>
+<p>Learning in public → ai-playground (RAG · AI workflows · system experimentation)</p>
 </td>
 </tr>
 </table>
