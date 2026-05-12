@@ -116,7 +116,7 @@
 <td width="120px" height="100px" align="center"><img src="/assets/nextjs.png" width="40"/><br/>Next.js</td>
 <td width="120px" height="100px" align="center"><img src="/assets/tailwindcss.png" width="40"/><br/>Tailwind</td>
 <td width="120px" height="100px" align="center"><img src="/assets/redux.png" width="40"/><br/>Redux</td>
-<td width="120px" height="100px" align="center"><img src="/assets/tanstackquery.png" width="40"/><br/>TanStack</td>
+<td width="160px" height="100px" align="center"><img src="/assets/tanstackquery.png" width="40"/><br/>TanStack Query</td>
 </tr>
 </table>
 
