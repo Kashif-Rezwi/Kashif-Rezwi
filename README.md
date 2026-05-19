@@ -15,6 +15,8 @@
   <a href="https://dev.to/kashifrezwi" target="_blank"><img width="48px" alt="Dev.to" title="kashifrezwi Dev.to" src="/assets/devto.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://kashif-rezwi.github.io/" target="_blank"><img width="48px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://leetcode.com/u/Kashif-Rezwi/" target="_blank"><img width="48px" alt="LeetCode" title="LeetCode" src="https://cdn.simpleicons.org/leetcode/FFA116" /></a>
 </p>
 
 <!-- Social badges section -->
