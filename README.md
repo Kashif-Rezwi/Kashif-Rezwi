@@ -1,9 +1,11 @@
 <p align="center">
- <img width="162" height="26" alt="image" src="/assets/kashifrezwi.png" />
+  <img width="162" height="26" alt="image" src="/assets/kashifrezwi.png" />
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Full+Stack+Engineer+(Frontend+Focus);Building+SaaS+%26+AI-Powered+Products;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Full+Stack+Engineer+(Frontend+Focus);Building+SaaS+%26+AI-Powered+Products;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- Social icons section -->
@@ -40,7 +42,7 @@
   <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kashif-Rezwi&style=for-the-badge&label=◉%20PROFILE%20VIEWS%20&color=d97706" /></a>
 </p>
 
-<br/>
+<br />
 
 <table>
   <tr>
@@ -62,116 +64,106 @@
   </tr>
 </table>
 
-</br>
+<br />
 
 <!-- Github stats -->
-<div align=center>
-<table align="left">
-<tr>
-<td width="400px" height="180px" align="center">
- <img  width=380 src="https://github-readme-stats-fast.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <table align="left">
+    <tr>
+      <td width="400px" height="180px" align="center">
+        <img width="380" src="https://github-readme-stats-fast.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 
-<table align="right">
-<tr>
-<td width="400px" height="180px" align="center">
-<img width=380 src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kashif-Rezwi&theme=github_dark&border=61dafb&hide_border=true" alt="Kashif-Rezwi" />
-</td>
-</tr>
-</table>
+  <table align="right">
+    <tr>
+      <td width="400px" height="180px" align="center">
+        <img width="380" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kashif-Rezwi&theme=github_dark&border=61dafb&hide_border=true" alt="Kashif-Rezwi" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-</br></br></br></br></br></br></br></br></br></br>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <!-- Tech stack -->
 <table width="100%" align="left">
-<tr>
-<p align="left">Languages</p>
-</tr>
-<tr>
-<td width="120px" height="100px" align="center">
-<img src="/assets/javascript.png" width="40"/><br/>JavaScript
-</td>
-<td width="120px" height="100px" align="center">
-<img src="/assets/typescript.png" width="40"/><br/>TypeScript
-</td>
-<td width="120px" height="100px" align="center">
-<img src="/assets/python.png" width="40"/><br/>Python
-</td>
-<!-- <td width="120px" height="100px" align="center">
-<img src="/assets/html.png" width="40"/><br/>HTML
-</td>
-<td width="120px" height="100px" align="center">
-<img src="/assets/css.png" width="40"/><br/>CSS
-</td> -->
-</tr>
+  <tr>
+    <td colspan="5" align="left"><strong>Languages</strong></td>
+  </tr>
+  <tr>
+    <td width="120px" height="100px" align="center">
+      <img src="/assets/javascript.png" width="40" /><br />JavaScript
+    </td>
+    <td width="120px" height="100px" align="center">
+      <img src="/assets/typescript.png" width="40" /><br />TypeScript
+    </td>
+    <td width="120px" height="100px" align="center">
+      <img src="/assets/python.png" width="40" /><br />Python
+    </td>
+  </tr>
 </table>
 
-</br></br></br></br></br>
+<br /><br /><br /><br /><br /><br /><br />
 
 <table width="100%" align="right">
-<tr>
-<p align="right">Frontend</p>
-</tr>
-<tr>
-<td width="120px" height="100px" align="center"><img src="/assets/react.png" width="40"/><br/>React</td>
-<td width="120px" height="100px" align="center"><img src="/assets/nextjs.png" width="40"/><br/>Next.js</td>
-<td width="120px" height="100px" align="center"><img src="/assets/tailwindcss.png" width="40"/><br/>Tailwind</td>
-<td width="120px" height="100px" align="center"><img src="/assets/redux.png" width="40"/><br/>Redux</td>
-<td width="160px" height="100px" align="center"><img src="/assets/tanstackquery.png" width="40"/><br/>TanStack Query</td>
-</tr>
+  <tr>
+    <td colspan="5" align="right"><strong>Frontend</strong></td>
+  </tr>
+  <tr>
+    <td width="120px" height="100px" align="center"><img src="/assets/react.png" width="40" /><br />React</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/nextjs.png" width="40" /><br />Next.js</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/tailwindcss.png" width="40" /><br />Tailwind</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/redux.png" width="40" /><br />Redux</td>
+    <td width="160px" height="100px" align="center"><img src="/assets/tanstackquery.png" width="40" /><br />TanStack Query</td>
+  </tr>
 </table>
 
-</br></br></br></br></br>
+<br /><br /><br /><br /><br /><br /><br />
 
 <table width="100%" align="left">
-<tr>
-<p align="left">Backend</p>
-</tr>
-<tr>
-<td width="120px" height="100px" align="center"><img src="/assets/nodejs.png" width="40"/><br/>Node.js</td>
-<td width="120px" height="100px" align="center"><img src="/assets/expressjs.png" width="40"/><br/>Express.js</td>
-<td width="120px" height="100px" align="center"><img src="/assets/nestjs.png" width="40"/><br/>NestJS</td>
-<td width="120px" height="100px" align="center"><img src="/assets/websocket.png" width="40"/><br/>WebSocket</td>
-</tr>
+  <tr>
+    <td colspan="4" align="left"><strong>Backend</strong></td>
+  </tr>
+  <tr>
+    <td width="120px" height="100px" align="center"><img src="/assets/nodejs.png" width="40" /><br />Node.js</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/expressjs.png" width="40" /><br />Express.js</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/nestjs.png" width="40" /><br />NestJS</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/websocket.png" width="40" /><br />WebSocket</td>
+  </tr>
 </table>
 
-</br></br></br></br></br>
+<br /><br /><br /><br /><br /><br /><br />
 
 <table width="100%" align="right">
-<tr>
-<p align="right">Databases & Caching</p>
-</tr>
-<tr>
-<td width="120px" height="100px" align="center"><img src="/assets/mongodb.png" width="40"/><br/>MongoDB</td>
-<td width="120px" height="100px" align="center"><img src="/assets/postgresql.png" width="40"/><br/>PostgreSQL</td>
-<td width="120px" height="100px" align="center"><img src="/assets/clickhouse.png" width="40"/><br/>ClickHouse</td>
-<td width="120px" height="100px" align="center"><img src="/assets/redis.png" width="40"/><br/>Redis</td>
-</tr>
+  <tr>
+    <td colspan="4" align="right"><strong>Databases & Caching</strong></td>
+  </tr>
+  <tr>
+    <td width="120px" height="100px" align="center"><img src="/assets/mongodb.png" width="40" /><br />MongoDB</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/postgresql.png" width="40" /><br />PostgreSQL</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/clickhouse.png" width="40" /><br />ClickHouse</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/redis.png" width="40" /><br />Redis</td>
+  </tr>
 </table>
 
-</br></br></br></br></br>
+<br /><br /><br /><br /><br /><br /><br />
 
 <table width="100%" align="left">
-<tr>
-<p align="left">DevOps & Tools</p>
-</tr>
-<tr>
-<td width="120px" height="100px" align="center"><img src="/assets/git.png" width="40"/><br/>Git</td>
-<td width="120px" height="100px" align="center"><img src="/assets/docker.png" width="40"/><br/>Docker</td>
-<td width="140px" height="100px" align="center"><img src="/assets/githubactions.png" width="40"/><br/>Github Actions</td>
-</tr>
+  <tr>
+    <td colspan="3" align="left"><strong>DevOps & Tools</strong></td>
+  </tr>
+  <tr>
+    <td width="120px" height="100px" align="center"><img src="/assets/git.png" width="40" /><br />Git</td>
+    <td width="120px" height="100px" align="center"><img src="/assets/docker.png" width="40" /><br />Docker</td>
+    <td width="140px" height="100px" align="center"><img src="/assets/githubactions.png" width="40" /><br />Github Actions</td>
+  </tr>
 </table>
 
-</br></br></br></br></br></br></br>
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <!-- Github stats -->
-<p align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif-Rezwi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif-Rezwi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </p>
-
-<!-- <div align=center>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Rezwi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</div> -->
