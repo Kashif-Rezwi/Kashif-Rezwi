@@ -43,21 +43,23 @@
 <br/>
 
 <table>
-<tr>
-<td height=120>
-<p>Full Stack Engineer (Frontend Focus) with ~2 years of experience building production SaaS products in startup environments. I’ve worked on landing page builders, CRM modules, workflow automation, and AI-assisted product experiences across React, Next.js, TypeScript, Node.js, and NestJS. Currently building Code Review Agent, an AI-powered PR review platform, while continuing to strengthen product engineering, UI architecture, and backend systems.</p>
-</td>
-</tr>
+  <tr>
+    <td height="120">
+      <p>Full Stack Engineer (Frontend Focus) with ~2 years of experience building production SaaS products in startup environments. I have worked on landing page builders, CRM modules, workflow automation, and AI-assisted product experiences across React, Next.js, TypeScript, Node.js, and NestJS.</p>
+      <p>Currently, I am building AI-powered software products while deepening my AI/ML foundations, with a long-term direction toward AI labs, model training, research workflows, and intelligent systems.</p>
+    </td>
+  </tr>
 </table>
 
 <table>
-<tr>
-<td height=156>
-<p>These days I’m focused on leveling up as an engineer by building production-ready SaaS and AI-assisted systems, exploring real-time experiences (SSE/WebSockets), workflow automation, and scalable product architectures.</p>
-<p>Now building → code-review-agent (Next.js · NestJS · SSE · OpenAI · Vercel AI SDK)</p>
-<p>Learning in public → ai-playground (RAG · AI workflows · system experimentation)</p>
-</td>
-</tr>
+  <tr>
+    <td height="190">
+      <p>These days I am focused on building production-ready SaaS and AI-assisted systems, while learning the fundamentals behind machine learning, model experimentation, and applied AI engineering.</p>
+      <p><strong>Now building</strong> &rarr; <a href="https://github.com/Kashif-Rezwi/perplexity">perplexity</a> and <a href="https://github.com/Kashif-Rezwi/code-review-agent">code-review-agent</a></p>
+      <p><strong>Learning in public</strong> &rarr; <a href="https://github.com/Kashif-Rezwi/ai-playground">ai-playground</a> and <a href="https://github.com/Kashif-Rezwi/language-playground">language-playground</a></p>
+      <p><strong>Exploring next</strong> &rarr; RAG, AI workflows, system experimentation, model training basics, evaluation, and small language model foundations.</p>
+    </td>
+  </tr>
 </table>
 
 </br>
