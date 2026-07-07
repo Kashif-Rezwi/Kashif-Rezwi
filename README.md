@@ -32,14 +32,9 @@
 </p> -->
 
 <p align="center">
-  <a href="https://github.com/Kashif-Rezwi?tab=repositories&sort=stargazers">
-   <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Kashif-Rezwi?style=for-the-badge&logo=apachespark&logoColor=white&label=STARS&labelColor=488207&color=55960c&cacheSeconds=3600" /></a>
-
-  <a href="https://github.com/Kashif-Rezwi?tab=followers">
-  <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kashif-Rezwi?style=for-the-badge&logo=ghostfolio&logoColor=white&label=FOLLOW&labelColor=1155ba&color=236ad3&cacheSeconds=3600" /></a>
-
-  <a href="https://github.com/Kashif-Rezwi">
-  <img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kashif-Rezwi&style=for-the-badge&label=◉%20PROFILE%20VIEWS%20&color=d97706" /></a>
+  <a href="https://github.com/Kashif-Rezwi?tab=repositories&sort=stargazers"><img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Kashif-Rezwi?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=488207&color=55960c&cacheSeconds=3600" /></a>
+  <a href="https://github.com/Kashif-Rezwi?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kashif-Rezwi?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&labelColor=1155ba&color=236ad3&cacheSeconds=3600" /></a>
+  <a href="https://github.com/Kashif-Rezwi"><img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kashif-Rezwi&style=for-the-badge&label=PROFILE%20VIEWS&color=d97706" /></a>
 </p>
 
 <br />
@@ -71,7 +66,11 @@
   <table align="left">
     <tr>
       <td width="400px" height="180px" align="center">
-        <img width="380" src="https://github-readme-stats-fast.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true" />
+        <img
+          width="380"
+          src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true"
+          alt="Kashif Rezwi's GitHub stats"
+        />
       </td>
     </tr>
   </table>
@@ -79,7 +78,11 @@
   <table align="right">
     <tr>
       <td width="400px" height="180px" align="center">
-        <img width="380" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kashif-Rezwi&theme=github_dark&border=61dafb&hide_border=true" alt="Kashif-Rezwi" />
+        <img
+          width="380"
+          src="https://streak-stats.demolab.com?username=Kashif-Rezwi&theme=github_dark&border=61dafb&hide_border=true"
+          alt="Kashif Rezwi's GitHub streak"
+        />
       </td>
     </tr>
   </table>
