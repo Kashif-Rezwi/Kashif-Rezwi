@@ -67,10 +67,9 @@
   <table align="left">
     <tr>
       <td width="400px" height="180px" align="center">
-        <img
-          width="380"
-          src="https://github-readme-stats.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true"
-          alt="Kashif Rezwi's GitHub stats"
+        <img 
+          width="380" 
+          src="https://github-readme-stats-fast.vercel.app/api?username=Kashif-Rezwi&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true" 
         />
       </td>
     </tr>
@@ -79,10 +78,9 @@
   <table align="right">
     <tr>
       <td width="400px" height="180px" align="center">
-        <img
-          width="380"
-          src="https://streak-stats.demolab.com?username=Kashif-Rezwi&theme=github_dark&border=61dafb&hide_border=true"
-          alt="Kashif Rezwi's GitHub streak"
+        <img 
+          width="380" 
+          src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kashif-Rezwi&theme=github_dark&border=61dafb&hide_border=true" alt="Kashif-Rezwi" 
         />
       </td>
     </tr>
