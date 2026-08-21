@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://github.com/Kashif-Rezwi?tab=repositories&sort=stargazers"><img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Kashif-Rezwi?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=488207&color=55960c&cacheSeconds=3600" /></a>
   <a href="https://github.com/Kashif-Rezwi?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kashif-Rezwi?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&labelColor=1155ba&color=236ad3&cacheSeconds=3600" /></a>
-  <a href="https://github.com/Kashif-Rezwi"><img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kashif-Rezwi&style=for-the-badge&label=PROFILE%20VIEWS&color=d97706" /></a>
+  <!-- <a href="https://github.com/Kashif-Rezwi"><img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kashif-Rezwi&style=for-the-badge&label=PROFILE%20VIEWS&color=d97706" /></a> -->
 </p>
 
 <br />
