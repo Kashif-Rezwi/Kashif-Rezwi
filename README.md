@@ -14,28 +14,15 @@
   <a href="https://www.linkedin.com/in/kashif-rezwi/" target="_blank"><img width="48px" alt="LinkedIn" title="LinkedIn" src="/assets/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://leetcode.com/u/Kashif-Rezwi/" target="_blank"><img width="48px" alt="LeetCode" title="LeetCode" src="/assets/leetcode.png" /></a>
-  <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <!-- <a href="https://x.com/kashifrezwi" target="_blank"><img width="48px" alt="Twitter" title="Twitter" src="/assets/x.png"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/kashifrezwi" target="_blank"><img width="48px" alt="Dev.to" title="kashifrezwi Dev.to" src="/assets/devto.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://kashif-rezwi.github.io/" target="_blank"><img width="48px" alt="Portfolio" title="Portfolio" src="/assets/portfolio.png"/></a>
 </p>
 
-<!-- Social badges section -->
-<!-- <p align="center">
-  <a href="https://github.com/Kashif-Rezwi?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kashif-Rezwi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&cacheSeconds=3600"/></a>
-  <a href="https://github.com/Kashif-Rezwi?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kashif-Rezwi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cacheSeconds=3600"/></a>
-  <a href="https://github.com/Kashif-Rezwi/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src=""/></a>
-</p> -->
-
 <p align="center">
   <a href="https://github.com/Kashif-Rezwi?tab=repositories&sort=stargazers"><img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Kashif-Rezwi?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=488207&color=55960c&cacheSeconds=3600" /></a>
   <a href="https://github.com/Kashif-Rezwi?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Kashif-Rezwi?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&labelColor=1155ba&color=236ad3&cacheSeconds=3600" /></a>
-  <!-- <a href="https://github.com/Kashif-Rezwi"><img alt="Profile Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Kashif-Rezwi&style=for-the-badge&label=PROFILE%20VIEWS&color=d97706" /></a> -->
 </p>
 
 <br />
@@ -162,10 +149,3 @@
     <td width="140px" height="100px" align="center"><img src="/assets/githubactions.png" width="40" /><br />Github Actions</td>
   </tr>
 </table>
-
-<!-- <br /><br /><br /><br /><br /><br /><br /><br /> -->
-
-<!-- Github stats -->
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif-Rezwi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
-</p> -->
