@@ -30,8 +30,8 @@
 <table>
   <tr>
     <td height="120">
-      <p>Full Stack Engineer (Frontend Focus) with ~2 years of experience building production SaaS products in startup environments. I have worked on landing page builders, CRM modules, workflow automation, and AI-assisted product experiences across React, Next.js, TypeScript, Node.js, and NestJS.</p>
-      <p>Currently, I am building AI-powered software products while deepening my AI/ML foundations, with a long-term direction toward AI labs, model training, research workflows, and intelligent systems.</p>
+      <p>Frontend-focused Full Stack Engineer with 2+ years of experience building customer-facing SaaS products in startup teams — landing-page builders, CRM and campaign platforms, and workflow automation — across React, Next.js, TypeScript, Node.js, and NestJS.</p>
+      <p>Currently building AI products and developer tools in public: streamed multi-agent code review, cited answer engines, and agent-governed pipelines. Long-term direction: AI product engineering and intelligent developer tooling.</p>
     </td>
   </tr>
 </table>
@@ -39,10 +39,10 @@
 <table>
   <tr>
     <td height="190">
-      <p>These days I am focused on building production-ready SaaS and AI-assisted systems, while learning the fundamentals behind machine learning, model experimentation, and applied AI engineering.</p>
-      <p><strong>Now building</strong> &rarr; <a href="https://github.com/Kashif-Rezwi/perplexity">perplexity</a> and <a href="https://github.com/Kashif-Rezwi/code-review-agent">code-review-agent</a></p>
-      <p><strong>Learning in public</strong> &rarr; <a href="https://github.com/Kashif-Rezwi/ai-playground">ai-playground</a> and <a href="https://github.com/Kashif-Rezwi/language-playground">language-playground</a></p>
-      <p><strong>Exploring next</strong> &rarr; RAG, AI workflows, system experimentation, model training basics, evaluation, and small language model foundations.</p>
+      <p>These days I turn what I learn into complete working systems — then write about the engineering decisions behind them on <a href="https://dev.to/kashifrezwi">dev.to</a>.</p>
+      <p><strong>Now building</strong> &rarr; <a href="https://github.com/Kashif-Rezwi/interactive-lessons">interactive-lessons</a> — an agent-governed pipeline that turns technical course material into rigorously evaluated interactive lessons</p>
+      <p><strong>Shipping</strong> &rarr; <a href="https://www.npmjs.com/package/server-active-indicator">server-active-indicator</a> — a zero-dependency npm package (v0.3.2, MIT) that tells users when a free-tier backend is waking up</p>
+      <p><strong>Exploring</strong> &rarr; frontier models, coding agents, and AI-assisted development workflows — where they add real value, and where careful engineering judgment still matters.</p>
     </td>
   </tr>
 </table>
