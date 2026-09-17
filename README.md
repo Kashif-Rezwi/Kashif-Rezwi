@@ -39,8 +39,8 @@
 <table>
   <tr>
     <td height="190">
-      <p>These days I turn what I learn into complete working systems — then write about the engineering decisions behind them on <a href="https://dev.to/kashifrezwi">dev.to</a>.</p>
-      <p><strong>Now building</strong> &rarr; <a href="https://github.com/Kashif-Rezwi/interactive-lessons">interactive-lessons</a> — an agent-governed pipeline that turns technical course material into rigorously evaluated interactive lessons</p>
+      <!-- <p>These days I turn what I learn into complete working systems — then write about the engineering decisions behind them on <a href="https://dev.to/kashifrezwi">dev.to</a>.</p> -->
+      <p><strong>Building</strong> &rarr; <a href="https://github.com/Kashif-Rezwi/interactive-lessons">interactive-lessons</a> — an agent-governed pipeline that turns technical course material into rigorously evaluated interactive lessons</p>
       <p><strong>Shipping</strong> &rarr; <a href="https://www.npmjs.com/package/server-active-indicator">server-active-indicator</a> — a zero-dependency npm package (v0.3.2, MIT) that tells users when a free-tier backend is waking up</p>
       <p><strong>Exploring</strong> &rarr; frontier models, coding agents, and AI-assisted development workflows — where they add real value, and where careful engineering judgment still matters.</p>
     </td>
